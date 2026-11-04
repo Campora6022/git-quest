@@ -3,6 +3,10 @@
 ##################################################
 objective: master version control, leave no trace
            (except beautiful commits)
+
 codename: Camporaaxd01
+codename: REDACTED-BY-HQ
+
 status:   STANDBY
+clearance: LEVEL-5
 ##################################################
