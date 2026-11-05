@@ -3,5 +3,5 @@
 agent: Campora6022
 codename: Camporaaxd01
 passphrase: h1st0ry-n3v3r-f0rg3ts
-gadget: faza
-motto: Hack fast
+gadget: TAYA7LOUFOUMOU
+motto: XDXD
